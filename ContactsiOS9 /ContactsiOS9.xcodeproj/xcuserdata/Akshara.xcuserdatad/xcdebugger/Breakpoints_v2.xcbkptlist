@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsiOS9/MainViewController.swift"
+            timestampString = "466372774.573658"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsiOS9.MainViewController.store.setter : ObjectiveC.CNContactStore"
+                  moduleName = "ContactsiOS9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Akshara/Desktop/Sample%20codes%20in%20iOS9/ContactsiOS9%20Final/ContactsiOS9/MainViewController.swift"
+                  timestampString = "466379194.025954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsiOS9.MainViewController.store.materializeForSet : ObjectiveC.CNContactStore"
+                  moduleName = "ContactsiOS9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Akshara/Desktop/Sample%20codes%20in%20iOS9/ContactsiOS9%20Final/ContactsiOS9/MainViewController.swift"
+                  timestampString = "466379194.026206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsiOS9.MainViewController.init (ContactsiOS9.MainViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; ContactsiOS9.MainViewController"
+                  moduleName = "ContactsiOS9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Akshara/Desktop/Sample%20codes%20in%20iOS9/ContactsiOS9%20Final/ContactsiOS9/MainViewController.swift"
+                  timestampString = "466379194.026365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ContactsiOS9.MainViewController.init (ContactsiOS9.MainViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;ContactsiOS9.MainViewController&gt;"
+                  moduleName = "ContactsiOS9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Akshara/Desktop/Sample%20codes%20in%20iOS9/ContactsiOS9%20Final/ContactsiOS9/MainViewController.swift"
+                  timestampString = "466379194.026472"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContactsiOS9/MainViewController.swift"
+            timestampString = "466379185.955136"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "findContactsWithName(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
